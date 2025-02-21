@@ -1,0 +1,38 @@
+# Data manipulation and analysis
+pandas  # Powerful data structures for data analysis, time series, and statistics
+
+# Numerical computing
+numpy  # Core library for array-based computation and mathematical operations
+
+# Machine learning
+scikit-learn  # Machine learning library with classification, regression, and clustering algorithms
+
+# Data visualization
+matplotlib  # Plotting library for creating static, animated, and interactive visualizations
+
+# Utility for hierarchical dictionaries (allows dot-access)
+python-box==6.0.2  # Provides a way to access dictionary keys as attributes
+
+# Parsing YAML configuration files
+pyYAML  # Library for parsing and writing YAML files
+
+# Progress bar utility
+tqdm  # Adds progress bars to loops and CLI processes
+
+# Ensures certain conditions are met (not a widely known package)
+ensure==1.0.2  # Utility for enforcing function input/output conditions
+
+# Parallel computing
+joblib  # Library for saving and loading Python objects, and parallel processing
+
+# Type hints for PyYAML
+types-PyYAML  # Provides type hints and static typing support for PyYAML
+
+# Web framework
+Flask  # Lightweight web framework for building APIs and web applications
+
+# Enables Cross-Origin Resource Sharing (CORS)
+Flask-Cors  # Extension for handling CORS in Flask applications
+
+# Local package installation (editable mode)
+-e .  # Installs the local package in development mode (editable)
